@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/09 20:49:12.000.252,=D:\IDE\delphi\Workspce\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 20:49:49.000.453,D:\IDE\delphi\Workspce\demo4\Unit1.pas=D:\IDE\delphi\Workspce\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 20:49:49.000.453,D:\IDE\delphi\Workspce\demo4\Unit1.dfm=D:\IDE\delphi\Workspce\Unit1.dfm</Transaction>
+    <Transaction>2020/03/09 20:51:54.000.866,=D:\IDE\delphi\Workspce\Unit2.pas</Transaction>
+    <Transaction>2020/03/09 20:52:11.000.589,D:\IDE\delphi\Workspce\demo4\Utils.pas=D:\IDE\delphi\Workspce\Unit2.pas</Transaction>
+    <Transaction>2020/03/09 20:54:04.000.435,D:\IDE\delphi\Workspce\demo4\MainFrm.pas=D:\IDE\delphi\Workspce\demo4\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 20:54:04.000.435,D:\IDE\delphi\Workspce\demo4\MainFrm.dfm=D:\IDE\delphi\Workspce\demo4\Unit1.dfm</Transaction>
+    <Transaction>2020/03/09 21:27:14.000.572,D:\IDE\delphi\Workspce\demo4\Project2.dproj=D:\IDE\delphi\Workspce\Project2.dproj</Transaction>
+    <Transaction>2020/03/09 23:16:46.000.903,=D:\IDE\delphi\Workspce\demo4\Unit2.pas</Transaction>
+    <Transaction>2020/03/09 23:17:31.000.409,D:\IDE\delphi\Workspce\demo4\MainThread.pas=D:\IDE\delphi\Workspce\demo4\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
